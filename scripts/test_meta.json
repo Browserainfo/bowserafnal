@@ -1,0 +1,806 @@
+{
+  "reading": [
+    {
+      "id": "cd_practice_1",
+      "testNumber": 1,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Practice 1: Roman Engineering & Hydraulic Aqueducts",
+      "description": "Authentic British Council style Academic Reading test covering Civil Engineering & Archaeology with 8 questions."
+    },
+    {
+      "id": "cd_reading_p2",
+      "testNumber": 2,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Practice 2: Urban Vertical Farming Innovations",
+      "description": "Authentic British Council style Academic Reading test covering Agronomy & Sustainable Cities with 8 questions."
+    },
+    {
+      "id": "cd_reading_p3",
+      "testNumber": 3,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Practice 3: Cetacean Navigation & Marine Bioacoustics",
+      "description": "Authentic British Council style Academic Reading test covering Marine Biology & Zoology with 8 questions."
+    },
+    {
+      "id": "cd_reading_p4",
+      "testNumber": 4,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Practice 4: Early Antarctic Exploration & Glaciology",
+      "description": "Authentic British Council style Academic Reading test covering Polar Science & Climatology with 8 questions."
+    },
+    {
+      "id": "cd_reading_p5",
+      "testNumber": 5,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Practice 5: The Evolution of Cuneiform Script & Written Records",
+      "description": "Authentic British Council style Academic Reading test covering Anthropology & Ancient History with 8 questions."
+    },
+    {
+      "id": "cd_reading_p6",
+      "testNumber": 6,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Practice 6: Microplastics in Deep-Sea Benthic Ecosystems",
+      "description": "Authentic British Council style Academic Reading test covering Oceanography & Environmental Science with 8 questions."
+    },
+    {
+      "id": "cd_reading_p7",
+      "testNumber": 7,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Practice 7: Biomimetic Architecture and Self-Cooling Structures",
+      "description": "Authentic British Council style Academic Reading test covering Architectural Engineering with 8 questions."
+    },
+    {
+      "id": "cd_reading_p8",
+      "testNumber": 8,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Practice 8: Silk Road Trade Networks & Central Asian Metallurgy",
+      "description": "Authentic British Council style Academic Reading test covering Economic History & Metallurgy with 8 questions."
+    },
+    {
+      "id": "cd_reading_p9",
+      "testNumber": 9,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Practice 9: Cognitive Neuroscience of Bilingual Language Acquisition",
+      "description": "Authentic British Council style Academic Reading test covering Neuroscience & Linguistics with 8 questions."
+    },
+    {
+      "id": "cd_reading_p10",
+      "testNumber": 10,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Practice 10: Solid-State Lithium Batteries & Grid Storage",
+      "description": "Authentic British Council style Academic Reading test covering Materials Science & Renewable Energy with 8 questions."
+    },
+    {
+      "id": "cd_reading_p11",
+      "testNumber": 11,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Practice 11: Ancient Maya Hydraulic Reservoirs in Tikal",
+      "description": "Authentic British Council style Academic Reading test covering Archaeology & Water Resource Management with 8 questions."
+    },
+    {
+      "id": "cd_reading_p12",
+      "testNumber": 12,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Practice 12: Decision Fatigue and Behavioral Choice Heuristics",
+      "description": "Authentic British Council style Academic Reading test covering Behavioral Economics & Cognitive Psychology with 8 questions."
+    },
+    {
+      "id": "cd_reading_p13",
+      "testNumber": 13,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Practice 13: Icelandic Geothermal Energy & Magma Drilling",
+      "description": "Authentic British Council style Academic Reading test covering Geology & Geothermal Engineering with 8 questions."
+    },
+    {
+      "id": "cd_reading_p14",
+      "testNumber": 14,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Practice 14: Coral Reef Thermal Resiliency & Symbiodinium Genetics",
+      "description": "Authentic British Council style Academic Reading test covering Marine Ecology & Molecular Genetics with 8 questions."
+    },
+    {
+      "id": "cd_reading_p15",
+      "testNumber": 15,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Practice 15: Synthetic Aniline Dyes and Industrial Chemistry",
+      "description": "Authentic British Council style Academic Reading test covering History of Chemistry & Industrial Revolution with 8 questions."
+    },
+    {
+      "id": "cd_reading_p16",
+      "testNumber": 16,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Practice 16: Urban Soundscapes and Psychoacoustic Health",
+      "description": "Authentic British Council style Academic Reading test covering Urban Acoustics & Environmental Psychology with 8 questions."
+    },
+    {
+      "id": "cd_reading_p17",
+      "testNumber": 17,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Practice 17: Göbekli Tepe and Pre-Pottery Neolithic Architecture",
+      "description": "Authentic British Council style Academic Reading test covering Neolithic Archaeology & Monumental Building with 8 questions."
+    },
+    {
+      "id": "cd_reading_p18",
+      "testNumber": 18,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Practice 18: Autonomous Electric Containerships and Maritime Logistics",
+      "description": "Authentic British Council style Academic Reading test covering Naval Architecture & Automation with 8 questions."
+    },
+    {
+      "id": "cd_reading_p19",
+      "testNumber": 19,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Practice 19: Circadian Rhythms and Suprachiasmatic Nucleus Regulation",
+      "description": "Authentic British Council style Academic Reading test covering Chronobiology & Neurophysiology with 8 questions."
+    },
+    {
+      "id": "cd_reading_p20",
+      "testNumber": 20,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Practice 20: Satellite SAR Interferometry & Amazon Rainforest Canopies",
+      "description": "Authentic British Council style Academic Reading test covering Remote Sensing & Forestry Conservation with 8 questions."
+    },
+    {
+      "id": "cd_reading_p21",
+      "testNumber": 21,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Practice 21: Peatland Carbon Sequestration & Rewetting Ecology",
+      "description": "Authentic British Council style Academic Reading test covering Wetland Ecology & Soil Science with 8 questions."
+    },
+    {
+      "id": "cd_reading_p22",
+      "testNumber": 22,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Practice 22: Soft Robotics in Deep Marine Biosphere Sampling",
+      "description": "Authentic British Council style Academic Reading test covering Robotics & Bio-inspired Engineering with 8 questions."
+    },
+    {
+      "id": "cd_reading_p23",
+      "testNumber": 23,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Practice 23: Hydrothermal Vent Extremophiles and Chemosynthesis",
+      "description": "Authentic British Council style Academic Reading test covering Microbiology & Astrobiology with 8 questions."
+    },
+    {
+      "id": "cd_reading_p24",
+      "testNumber": 24,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Practice 24: John Harrison and the Marine Chronometer Longitude Solution",
+      "description": "Authentic British Council style Academic Reading test covering Horology & Navigation History with 8 questions."
+    },
+    {
+      "id": "cd_reading_p25",
+      "testNumber": 25,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Practice 25: Urban Heat Islands and Microclimate Reflective Pavements",
+      "description": "Authentic British Council style Academic Reading test covering Urban Meteorology & Materials Engineering with 8 questions."
+    },
+    {
+      "id": "cd_reading_p26",
+      "testNumber": 26,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Practice 26: Pagoda Seismic Resistance and Dynamic Shinbashira Timbers",
+      "description": "Authentic British Council style Academic Reading test covering Structural Engineering & Historical Carpentry with 8 questions."
+    },
+    {
+      "id": "cd_reading_p27",
+      "testNumber": 27,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Practice 27: Avian Magnetoreception and Cryptochrome Quantum Sensing",
+      "description": "Authentic British Council style Academic Reading test covering Quantum Biology & Animal Navigation with 8 questions."
+    },
+    {
+      "id": "cd_reading_p28",
+      "testNumber": 28,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Practice 28: Graphene Desalination Membranes and Brackish Aquifers",
+      "description": "Authentic British Council style Academic Reading test covering Nanotechnology & Water Filtration with 8 questions."
+    },
+    {
+      "id": "cd_reading_p29",
+      "testNumber": 29,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Practice 29: Proto-Indo-European Comparative Historical Linguistics",
+      "description": "Authentic British Council style Academic Reading test covering Historical Linguistics & Philology with 8 questions."
+    },
+    {
+      "id": "cd_reading_p30",
+      "testNumber": 30,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Practice 30: Soil Microbiome Mycorrhizal Networks and Organic Carbon",
+      "description": "Authentic British Council style Academic Reading test covering Soil Ecology & Regenerative Agriculture with 8 questions."
+    },
+    {
+      "id": "cd_reading_m1",
+      "testNumber": 1,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Reading Mock 1: The Great Barrier Reef Ocean Acidification & Calcification",
+      "description": "Authentic British Council style Academic Reading test covering Global Marine Climatology with 8 questions."
+    },
+    {
+      "id": "cd_reading_m2",
+      "testNumber": 2,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Reading Mock 2: Paleolithic Cave Art & Ochre Pigment Chronology in Lascaux",
+      "description": "Authentic British Council style Academic Reading test covering Prehistoric Archaeology & Chemical Dating with 8 questions."
+    },
+    {
+      "id": "cd_reading_m3",
+      "testNumber": 3,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Reading Mock 3: Stratospheric Ozone Depletion and Montreal Protocol Chemistry",
+      "description": "Authentic British Council style Academic Reading test covering Atmospheric Chemistry & International Treaties with 8 questions."
+    },
+    {
+      "id": "cd_reading_m4",
+      "testNumber": 4,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Reading Mock 4: Ancient Indus Valley Water Harvesting and Sanitary Urbanism",
+      "description": "Authentic British Council style Academic Reading test covering Bronze Age Civilizations & Urban Planning with 8 questions."
+    },
+    {
+      "id": "cd_reading_m5",
+      "testNumber": 5,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Reading Mock 5: Quantum Computing and Superconducting Qubit Coherence",
+      "description": "Authentic British Council style Academic Reading test covering Quantum Physics & Information Theory with 8 questions."
+    },
+    {
+      "id": "cd_reading_m6",
+      "testNumber": 6,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Reading Mock 6: The Economics of Circular Textile Recycling & Microfiber Shedding",
+      "description": "Authentic British Council style Academic Reading test covering Industrial Ecology & Sustainable Fashion with 8 questions."
+    },
+    {
+      "id": "cd_reading_m7",
+      "testNumber": 7,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Reading Mock 7: Forest Canopy Fungal Networks & Nutrient Sharing Ecology",
+      "description": "Authentic British Council style Academic Reading test covering Mycology & Plant Physiology with 8 questions."
+    },
+    {
+      "id": "cd_reading_m8",
+      "testNumber": 8,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Reading Mock 8: Medieval Windmills and Tidal Mills in Northwestern Europe",
+      "description": "Authentic British Council style Academic Reading test covering Medieval Technology & Hydrodynamics with 8 questions."
+    },
+    {
+      "id": "cd_reading_m9",
+      "testNumber": 9,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Reading Mock 9: Neuroplasticity in Stroke Recovery and Motor Cortex Remapping",
+      "description": "Authentic British Council style Academic Reading test covering Clinical Neurology & Rehabilitation with 8 questions."
+    },
+    {
+      "id": "cd_reading_m10",
+      "testNumber": 10,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Reading Mock 10: Deep-Sea Manganese Nodule Mining and Seabed Protection",
+      "description": "Authentic British Council style Academic Reading test covering Ocean Policy & Benthic Ecology with 8 questions."
+    },
+    {
+      "id": "cd_reading_m11",
+      "testNumber": 11,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Reading Mock 11: The History of Epidemic Quarantine in Venetian Maritime Ports",
+      "description": "Authentic British Council style Academic Reading test covering Epidemiology History & Public Health with 8 questions."
+    },
+    {
+      "id": "cd_reading_m12",
+      "testNumber": 12,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Reading Mock 12: Renewable Ammonia as Zero-Carbon Shipping Fuel",
+      "description": "Authentic British Council style Academic Reading test covering Chemical Engineering & Maritime Transport with 8 questions."
+    },
+    {
+      "id": "cd_reading_m13",
+      "testNumber": 13,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Reading Mock 13: The Psychology of Flow State and High Performance Cognition",
+      "description": "Authentic British Council style Academic Reading test covering Positive Psychology & Cognitive Neuroscience with 8 questions."
+    },
+    {
+      "id": "cd_reading_m14",
+      "testNumber": 14,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Reading Mock 14: Agricultural Domestication of Einkorn and Emmer Wheats",
+      "description": "Authentic British Council style Academic Reading test covering Paleobotany & Crop Genetics with 8 questions."
+    },
+    {
+      "id": "cd_reading_m15",
+      "testNumber": 15,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Reading Mock 15: Permafrost Thawing and Thermokarst Lake Methane Dynamics",
+      "description": "Authentic British Council style Academic Reading test covering Arctic Cryosphere & Biogeochemistry with 8 questions."
+    },
+    {
+      "id": "cd_reading_m16",
+      "testNumber": 16,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Reading Mock 16: Byzantine Silk Production and Imperial Trade Monopolies",
+      "description": "Authentic British Council style Academic Reading test covering Medieval Economic History with 8 questions."
+    },
+    {
+      "id": "cd_reading_m17",
+      "testNumber": 17,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Reading Mock 17: Space Debris Remediation and Electrodynamic Tethers",
+      "description": "Authentic British Council style Academic Reading test covering Orbital Mechanics & Aerospace Safety with 8 questions."
+    },
+    {
+      "id": "cd_reading_m18",
+      "testNumber": 18,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Reading Mock 18: Animal Tool Use in New Caledonian Crows and Sea Otters",
+      "description": "Authentic British Council style Academic Reading test covering Comparative Animal Cognition with 8 questions."
+    },
+    {
+      "id": "cd_reading_m19",
+      "testNumber": 19,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Reading Mock 19: Sustainable Concrete Formulations Using Pozzolanic Volcanic Ash",
+      "description": "Authentic British Council style Academic Reading test covering Civil Materials Science & Carbon Reduction with 8 questions."
+    },
+    {
+      "id": "cd_reading_m20",
+      "testNumber": 20,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Reading Mock 20: The Decipherment of Linear B and Mycenaean Administrative Records",
+      "description": "Authentic British Council style Academic Reading test covering Epigraphy & Aegean Bronze Age with 8 questions."
+    }
+  ],
+  "listening": [
+    {
+      "id": "cd_listening_p1",
+      "testNumber": 1,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Practice 1: Campus Facilities & Library Membership Registration",
+      "description": "British Council format listening assessment focusing on University Induction with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_p2",
+      "testNumber": 2,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Practice 2: Student Accommodation & Tenancy Agreement",
+      "description": "British Council format listening assessment focusing on Off-campus Housing with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_p3",
+      "testNumber": 3,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Practice 3: University Health Center & Medical Consultation Booking",
+      "description": "British Council format listening assessment focusing on Campus Health with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_p4",
+      "testNumber": 4,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Practice 4: International Student Orientation & Banking Setup",
+      "description": "British Council format listening assessment focusing on Student Affairs with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_p5",
+      "testNumber": 5,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Practice 5: Public Transport Card & Regional Train Subsidies",
+      "description": "British Council format listening assessment focusing on City Transit with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_p6",
+      "testNumber": 6,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Practice 6: Campus Sports Complex & Fitness Class Enrollment",
+      "description": "British Council format listening assessment focusing on Athletics & Recreation with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_p7",
+      "testNumber": 7,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Practice 7: Academic Writing Center One-on-One Tutoring",
+      "description": "British Council format listening assessment focusing on Academic Skills with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_p8",
+      "testNumber": 8,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Practice 8: Botanical Gardens Guided Walking Tour Booking",
+      "description": "British Council format listening assessment focusing on Public Tourism with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_p9",
+      "testNumber": 9,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Practice 9: Student Union Volunteering & Community Outreach",
+      "description": "British Council format listening assessment focusing on Civic Engagement with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_p10",
+      "testNumber": 10,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Practice 10: University Careers Service & Summer Internship Fair",
+      "description": "British Council format listening assessment focusing on Career Planning with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_p11",
+      "testNumber": 11,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Practice 11: Local Heritage Museum Exhibition & Audio Guide",
+      "description": "British Council format listening assessment focusing on Cultural History with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_p12",
+      "testNumber": 12,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Practice 12: Renewable Energy Conference Registration & Lodging",
+      "description": "British Council format listening assessment focusing on Academic Symposium with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_p13",
+      "testNumber": 13,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Practice 13: Cycling Safety Campaign & City Bike Hire Scheme",
+      "description": "British Council format listening assessment focusing on Urban Sustainability with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_p14",
+      "testNumber": 14,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Practice 14: Marine Biology Field Trip Equipment Checklist",
+      "description": "British Council format listening assessment focusing on Fieldwork Biology with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_p15",
+      "testNumber": 15,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Practice 15: Campus IT Helpdesk & Wireless Network Setup",
+      "description": "British Council format listening assessment focusing on Technical Support with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_p16",
+      "testNumber": 16,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Practice 16: Language Exchange Program & Peer Tutoring Matching",
+      "description": "British Council format listening assessment focusing on Linguistics Education with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_p17",
+      "testNumber": 17,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Practice 17: Student Drama Society Audition & Rehearsal Schedule",
+      "description": "British Council format listening assessment focusing on Performing Arts with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_p18",
+      "testNumber": 18,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Practice 18: Community Art Workshop & Ceramic Sculpture Course",
+      "description": "British Council format listening assessment focusing on Creative Workshop with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_p19",
+      "testNumber": 19,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Practice 19: City Recycling Initiative & Household Waste Audit",
+      "description": "British Council format listening assessment focusing on Municipal Policy with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_p20",
+      "testNumber": 20,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Practice 20: Music Department Instrument Hire & Practice Room Booking",
+      "description": "British Council format listening assessment focusing on Music Academy with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_p21",
+      "testNumber": 21,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Practice 21: Psychology Department Research Experiment Participation",
+      "description": "British Council format listening assessment focusing on Behavioral Science with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_p22",
+      "testNumber": 22,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Practice 22: Architecture Field Study: Historical City Walking Tour",
+      "description": "British Council format listening assessment focusing on Built Environment with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_p23",
+      "testNumber": 23,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Practice 23: Student Travel Society: Lake District Excursion",
+      "description": "British Council format listening assessment focusing on Outdoor Recreation with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_p24",
+      "testNumber": 24,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Practice 24: Campus Bookstore Course Textbooks & Digital Access Codes",
+      "description": "British Council format listening assessment focusing on Academic Resources with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_p25",
+      "testNumber": 25,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Practice 25: Cookery School: Nutrition & Culinary Arts Evening Classes",
+      "description": "British Council format listening assessment focusing on Community Education with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_p26",
+      "testNumber": 26,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Practice 26: Wildlife Rescue Sanctuary Volunteer Induction",
+      "description": "British Council format listening assessment focusing on Animal Welfare with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_p27",
+      "testNumber": 27,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Practice 27: Graduate Alumni Mentorship Program Application",
+      "description": "British Council format listening assessment focusing on Professional Mentorship with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_p28",
+      "testNumber": 28,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Practice 28: Renewable Solar Panel Installation Consultation",
+      "description": "British Council format listening assessment focusing on Green Energy Audit with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_p29",
+      "testNumber": 29,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Practice 29: Campus Astronomy Club Stargazing Event Logistics",
+      "description": "British Council format listening assessment focusing on Observational Astronomy with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_p30",
+      "testNumber": 30,
+      "testType": "practice",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Practice 30: Student Radio Station Broadcasting Workshop",
+      "description": "British Council format listening assessment focusing on Media & Journalism with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_m1",
+      "testNumber": 1,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Mock 1: City Community Center & Wildlife Habitat Talk",
+      "description": "British Council format listening assessment focusing on Full British Council Listening Simulation with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_m2",
+      "testNumber": 2,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Mock 2: University Housing Office & Ocean Acoustics Lecture",
+      "description": "British Council format listening assessment focusing on Full British Council Listening Simulation with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_m3",
+      "testNumber": 3,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Mock 3: Public Transport Inquiries & Geothermal Plant Tour",
+      "description": "British Council format listening assessment focusing on Full British Council Listening Simulation with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_m4",
+      "testNumber": 4,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Mock 4: Heritage Railway Volunteering & Antarctic Expedition Talk",
+      "description": "British Council format listening assessment focusing on Full British Council Listening Simulation with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_m5",
+      "testNumber": 5,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Mock 5: Campus Language Clinic & Ancient Agriculture Seminar",
+      "description": "British Council format listening assessment focusing on Full British Council Listening Simulation with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_m6",
+      "testNumber": 6,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Mock 6: Student Counseling Intake & Medieval Trade Routes Lecture",
+      "description": "British Council format listening assessment focusing on Full British Council Listening Simulation with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_m7",
+      "testNumber": 7,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Mock 7: Marine Park Conservation Survey & Cognitive Science Seminar",
+      "description": "British Council format listening assessment focusing on Full British Council Listening Simulation with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_m8",
+      "testNumber": 8,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Mock 8: Local Library Digitization & Microclimate Architecture Lecture",
+      "description": "British Council format listening assessment focusing on Full British Council Listening Simulation with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_m9",
+      "testNumber": 9,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Mock 9: Organic Community Farm Volunteer & Nanotech Materials Talk",
+      "description": "British Council format listening assessment focusing on Full British Council Listening Simulation with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_m10",
+      "testNumber": 10,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Mock 10: University Fitness Center & Evolutionary Biology Lecture",
+      "description": "British Council format listening assessment focusing on Full British Council Listening Simulation with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_m11",
+      "testNumber": 11,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Mock 11: Travel Insurance Inquiries & Urban Hydrology Seminar",
+      "description": "British Council format listening assessment focusing on Full British Council Listening Simulation with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_m12",
+      "testNumber": 12,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Mock 12: Film Festival Volunteer Booking & Deep Sea Robotics Lecture",
+      "description": "British Council format listening assessment focusing on Full British Council Listening Simulation with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_m13",
+      "testNumber": 13,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Mock 13: Student Entrepreneurship Grant & Solar Physics Lecture",
+      "description": "British Council format listening assessment focusing on Full British Council Listening Simulation with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_m14",
+      "testNumber": 14,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Mock 14: Community Center Room Hire & Forest Ecology Seminar",
+      "description": "British Council format listening assessment focusing on Full British Council Listening Simulation with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_m15",
+      "testNumber": 15,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Mock 15: Veterinary Clinic Internship & Paleolithic Archaeology Lecture",
+      "description": "British Council format listening assessment focusing on Full British Council Listening Simulation with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_m16",
+      "testNumber": 16,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Mock 16: Regional Tourism Office & Biofuel Synthesis Lecture",
+      "description": "British Council format listening assessment focusing on Full British Council Listening Simulation with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_m17",
+      "testNumber": 17,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Mock 17: University Art Gallery Tour & Quantum Sensor Seminar",
+      "description": "British Council format listening assessment focusing on Full British Council Listening Simulation with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_m18",
+      "testNumber": 18,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Mock 18: City Bicycle Scheme Support & Circadian Biology Lecture",
+      "description": "British Council format listening assessment focusing on Full British Council Listening Simulation with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_m19",
+      "testNumber": 19,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Mock 19: Student Exchange Orientation & Volcanology Research Talk",
+      "description": "British Council format listening assessment focusing on Full British Council Listening Simulation with audio transcript and 5 questions."
+    },
+    {
+      "id": "cd_listening_m20",
+      "testNumber": 20,
+      "testType": "mock",
+      "courseType": "CD-IELTS",
+      "title": "CD-IELTS Listening Mock 20: Environmental Charity Fundraiser & Space Astronomy Seminar",
+      "description": "British Council format listening assessment focusing on Full British Council Listening Simulation with audio transcript and 5 questions."
+    }
+  ]
+}

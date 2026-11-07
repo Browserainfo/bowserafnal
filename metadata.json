@@ -1,0 +1,6 @@
+{
+  "name": "BrowseraIELTS",
+  "description": "AI-Powered English Exam Preparation Platform for CD-IELTS, PTE Academic, Spoken English and Computer Courses by Browsera Infotech",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

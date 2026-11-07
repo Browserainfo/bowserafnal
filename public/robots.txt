@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin
+Disallow: /teacher
+Disallow: /student
+Disallow: /login
+Disallow: /exam
+
+Sitemap: https://ielts.browsera.co.uk/sitemap.xml
